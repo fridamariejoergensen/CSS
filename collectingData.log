@@ -1,0 +1,132 @@
+2023-02-26 17:08:15,508 | root | INFO | Length of author Id list: 100
+2023-02-26 17:08:18,736 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:08:21,914 | root | INFO | Code has processed 100 names.
+2023-02-26 17:08:22,114 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-26 17:11:09,029 | root | INFO | Length of author Id list: 200
+2023-02-26 17:11:09,096 | root | INFO | Opened pickle with author dataframe.
+2023-02-26 17:11:09,215 | root | INFO | Opened pickle with paper dataframe.
+2023-02-26 17:11:09,234 | root | INFO | Opened pickle with abstract dataframe.
+2023-02-26 17:11:09,236 | root | INFO | Opened pickle with checked authors of length 100.
+2023-02-26 17:11:13,035 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:11:16,540 | root | INFO | Code has processed 200 names.
+2023-02-26 17:11:16,976 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-26 17:15:25,779 | root | INFO | Length of author Id list: 300
+2023-02-26 17:15:25,892 | root | INFO | Opened pickle with author dataframe.
+2023-02-26 17:15:26,009 | root | INFO | Opened pickle with paper dataframe.
+2023-02-26 17:15:26,321 | root | INFO | Opened pickle with abstract dataframe.
+2023-02-26 17:15:26,334 | root | INFO | Opened pickle with checked authors of length 200.
+2023-02-26 17:15:29,324 | root | WARNING | Request returned a message: Internal server error
+2023-02-26 17:15:32,339 | root | INFO | Initiating search for faulty data with batchLength 100.
+2023-02-26 17:15:36,604 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:15:36,635 | root | INFO | Author with id 2149065784 returned a Nonetype object.
+2023-02-26 17:15:42,367 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:15:45,540 | root | INFO | Code has processed 300 names.
+2023-02-26 17:15:46,079 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-26 17:15:46,079 | root | INFO | There were 1 faulty authorIds, which were:
+2023-02-26 17:15:46,081 | root | INFO | {'2149065784': 'none'}
+2023-02-26 17:17:30,416 | root | INFO | Length of author Id list: 400
+2023-02-26 17:17:30,491 | root | INFO | Opened pickle with author dataframe.
+2023-02-26 17:17:30,721 | root | INFO | Opened pickle with paper dataframe.
+2023-02-26 17:17:30,911 | root | INFO | Opened pickle with abstract dataframe.
+2023-02-26 17:17:30,927 | root | INFO | Opened pickle with checked authors of length 300.
+2023-02-26 17:18:00,533 | root | WARNING | Request returned a message: Endpoint request timed out
+2023-02-26 17:18:03,536 | root | INFO | Initiating search for faulty data with batchLength 100.
+2023-02-26 17:18:33,099 | root | WARNING | Request returned a message: Endpoint request timed out
+2023-02-26 17:18:36,104 | root | INFO | Initiating search for faulty data with batchLength 50.
+2023-02-26 17:19:05,866 | root | WARNING | Request returned a message: Endpoint request timed out
+2023-02-26 17:19:08,876 | root | INFO | Initiating search for faulty data with batchLength 25.
+2023-02-26 17:19:38,329 | root | WARNING | Request returned a message: Endpoint request timed out
+2023-02-26 17:19:41,332 | root | INFO | Initiating search for faulty data with batchLength 12.
+2023-02-26 17:20:10,749 | root | WARNING | Request returned a message: Endpoint request timed out
+2023-02-26 17:20:13,764 | root | INFO | Initiating search for faulty data with batchLength 6.
+2023-02-26 17:20:15,130 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:20:47,548 | root | WARNING | Request returned a message: Endpoint request timed out
+2023-02-26 17:20:50,562 | root | INFO | Initiating search for faulty data with batchLength 3.
+2023-02-26 17:21:20,011 | root | WARNING | Request returned a message: Endpoint request timed out
+2023-02-26 17:21:23,018 | root | INFO | Initiating search for faulty data with batchLength 1.
+2023-02-26 17:21:23,020 | root | WARNING | Faulty id: Found that author with id ['35390971'] returns a server error upon request.
+2023-02-26 17:21:23,796 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:21:27,943 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:21:32,609 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:21:37,725 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:21:43,073 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:21:50,066 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-26 17:21:53,314 | root | INFO | Code has processed 400 names.
+2023-02-26 17:21:54,052 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-26 17:21:54,054 | root | INFO | There were 1 faulty authorIds, which were:
+2023-02-26 17:21:54,055 | root | INFO | {'35390971': 'error'}
+2023-02-26 17:21:54,056 | root | INFO | The author dataframe has length:
+2023-02-26 17:21:54,059 | root | INFO | The paper dataframe has length:
+2023-02-27 16:09:20,010 | root | INFO | Length of author Id list: 5
+2023-02-27 16:09:21,394 | root | INFO | Opened pickle with author dataframe.
+2023-02-27 16:09:35,384 | root | INFO | Length of author Id list: 5
+2023-02-27 16:09:36,185 | root | INFO | Opened pickle with author dataframe.
+2023-02-27 16:10:41,314 | root | INFO | Length of author Id list: 5
+2023-02-27 16:10:42,811 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-27 16:10:45,843 | root | INFO | Code has processed 5 names.
+2023-02-27 16:10:45,934 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-27 16:10:45,936 | root | INFO | There were 0 faulty authorIds, which were:
+2023-02-27 16:10:45,939 | root | INFO | {}
+2023-02-27 16:10:45,941 | root | INFO | The author dataframe has length:
+2023-02-27 16:10:45,943 | root | INFO | The paper dataframe has length:
+2023-02-28 21:56:32,507 | root | INFO | Length of author Id list: 5
+2023-02-28 21:56:34,429 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-28 21:56:37,443 | root | INFO | Code has processed 5 names.
+2023-02-28 21:56:37,479 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-28 21:56:37,480 | root | INFO | There were 0 faulty authorIds, which were:
+2023-02-28 21:56:37,480 | root | INFO | {}
+2023-02-28 21:56:37,481 | root | INFO | The author dataframe has length:
+2023-02-28 21:56:37,481 | root | INFO | The paper dataframe has length:
+2023-02-28 22:20:42,808 | root | INFO | Length of author Id list: 122293
+2023-02-28 22:20:42,866 | root | INFO | Opened pickle with author dataframe.
+2023-02-28 22:20:42,876 | root | INFO | Opened pickle with paper dataframe.
+2023-02-28 22:20:42,879 | root | INFO | Opened pickle with abstract dataframe.
+2023-02-28 22:20:42,880 | root | INFO | Opened pickle with checked authors of length 5.
+2023-02-28 22:20:45,494 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-28 22:20:48,556 | root | INFO | Code has processed 100 names.
+2023-02-28 22:20:51,397 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-28 22:20:54,674 | root | INFO | Code has processed 200 names.
+2023-02-28 22:20:56,705 | root | WARNING | Request returned a message: Internal server error
+2023-02-28 22:20:59,716 | root | INFO | Initiating search for faulty data with batchLength 100.
+2023-02-28 22:21:02,438 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-28 22:21:02,443 | root | INFO | Author with id 2149065784 returned a Nonetype object.
+2023-02-28 22:21:15,712 | root | INFO | Length of author Id list: 100
+2023-02-28 22:21:15,723 | root | INFO | Opened pickle with author dataframe.
+2023-02-28 22:21:15,726 | root | INFO | Opened pickle with paper dataframe.
+2023-02-28 22:21:15,728 | root | INFO | Opened pickle with abstract dataframe.
+2023-02-28 22:21:15,729 | root | INFO | Opened pickle with checked authors of length 5.
+2023-02-28 22:21:18,749 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-28 22:21:21,955 | root | INFO | Code has processed 100 names.
+2023-02-28 22:21:22,023 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-28 22:21:22,023 | root | INFO | There were 0 faulty authorIds, which were:
+2023-02-28 22:21:22,023 | root | INFO | {}
+2023-02-28 22:21:22,024 | root | INFO | The author dataframe has length:
+2023-02-28 22:21:22,024 | root | INFO | The paper dataframe has length:
+2023-02-28 22:21:37,638 | root | INFO | Length of author Id list: 100
+2023-02-28 22:21:37,654 | root | INFO | Opened pickle with author dataframe.
+2023-02-28 22:21:37,672 | root | INFO | Opened pickle with paper dataframe.
+2023-02-28 22:21:37,686 | root | INFO | Opened pickle with abstract dataframe.
+2023-02-28 22:21:37,692 | root | INFO | Opened pickle with checked authors of length 105.
+2023-02-28 22:21:37,721 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-28 22:21:37,721 | root | INFO | There were 0 faulty authorIds, which were:
+2023-02-28 22:21:37,721 | root | INFO | {}
+2023-02-28 22:21:37,721 | root | INFO | The author dataframe has length:
+2023-02-28 22:21:37,721 | root | INFO | The paper dataframe has length:
+2023-02-28 22:22:45,538 | root | INFO | Length of author Id list: 100
+2023-02-28 22:22:45,555 | root | INFO | Opened pickle with author dataframe.
+2023-02-28 22:22:45,618 | root | INFO | Opened pickle with paper dataframe.
+2023-02-28 22:22:45,629 | root | INFO | Opened pickle with abstract dataframe.
+2023-02-28 22:22:45,630 | root | INFO | Opened pickle with checked authors of length 105.
+2023-02-28 22:22:45,651 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-28 22:22:45,651 | root | INFO | There were 0 faulty authorIds, which were:
+2023-02-28 22:22:45,652 | root | INFO | {}
+2023-02-28 22:22:45,652 | root | INFO | The author dataframe has length:
+2023-02-28 22:22:45,652 | root | INFO | The paper dataframe has length:
+2023-02-28 22:23:13,398 | root | INFO | Length of author Id list: 100
+2023-02-28 22:23:16,750 | root | INFO | Initiating sortAuthorDataInDataframesDict
+2023-02-28 22:23:19,812 | root | INFO | Code has processed 100 names.
+2023-02-28 22:23:19,863 | root | INFO | Pickles saved succesfully to path pickles!
+2023-02-28 22:23:19,863 | root | INFO | There were 0 faulty authorIds, which were:
+2023-02-28 22:23:19,863 | root | INFO | {}
+2023-02-28 22:23:19,864 | root | INFO | The author dataframe has length:
+2023-02-28 22:23:19,864 | root | INFO | The paper dataframe has length:
